@@ -688,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ggjos\\source\\repos\\GomezLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogDataLibrary\\BlogDataLibrary.csproj",
       "projectName": "BlogDataLibrary",
-      "projectPath": "C:\\Users\\ggjos\\source\\repos\\GomezLE2\\BlogDataLibrary\\BlogDataLibrary.csproj",
+      "projectPath": "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogDataLibrary\\BlogDataLibrary.csproj",
       "packagesPath": "C:\\Users\\ggjos\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ggjos\\source\\repos\\GomezLE2\\BlogDataLibrary\\obj\\",
+      "outputPath": "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogDataLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ggjos\\AppData\\Roaming\\NuGet\\NuGet.Config",

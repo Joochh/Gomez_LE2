@@ -1,10 +1,6 @@
 C:\Users\ggjos\source\repos\GomezLE2\GomezBlogDB\bin\Debug\GomezBlogDB.dacpac
-C:\Users\ggjos\source\repos\GomezLE2\GomezBlogDB\bin\Debug\GomezBlogDB.dll
-C:\Users\ggjos\source\repos\GomezLE2\GomezBlogDB\bin\Debug\GomezBlogDB.pdb
 C:\Users\ggjos\source\repos\GomezLE2\GomezBlogDB\obj\Debug\GomezBlogDB.sqlproj.AssemblyReference.cache
-C:\Users\ggjos\source\repos\GomezLE2\GomezBlogDB\obj\Debug\Model.xml
-C:\Users\ggjos\source\repos\GomezLE2\GomezBlogDB\obj\Debug\refactor.xml
-C:\Users\ggjos\source\repos\GomezLE2\GomezBlogDB\obj\Debug\postdeploy.sql
-C:\Users\ggjos\source\repos\GomezLE2\GomezBlogDB\obj\Debug\predeploy.sql
 C:\Users\ggjos\source\repos\GomezLE2\GomezBlogDB\obj\Debug\GomezBlogDB.dll
 C:\Users\ggjos\source\repos\GomezLE2\GomezBlogDB\obj\Debug\GomezBlogDB.pdb
+C:\Users\ggjos\source\repos\GomezLE2\GomezBlogDB\bin\Debug\GomezBlogDB.dll
+C:\Users\ggjos\source\repos\GomezLE2\GomezBlogDB\bin\Debug\GomezBlogDB.pdb
