@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogTestUI\\BlogTestUI.csproj": {}
+    "C:\\Users\\ggjos\\Desktop\\New new Repo\\BlogTestUI\\BlogTestUI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogDataLibrary\\BlogDataLibrary.csproj": {
+    "C:\\Users\\ggjos\\Desktop\\New new Repo\\BlogDataLibrary\\BlogDataLibrary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogDataLibrary\\BlogDataLibrary.csproj",
+        "projectUniqueName": "C:\\Users\\ggjos\\Desktop\\New new Repo\\BlogDataLibrary\\BlogDataLibrary.csproj",
         "projectName": "BlogDataLibrary",
-        "projectPath": "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogDataLibrary\\BlogDataLibrary.csproj",
+        "projectPath": "C:\\Users\\ggjos\\Desktop\\New new Repo\\BlogDataLibrary\\BlogDataLibrary.csproj",
         "packagesPath": "C:\\Users\\ggjos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogDataLibrary\\obj\\",
+        "outputPath": "C:\\Users\\ggjos\\Desktop\\New new Repo\\BlogDataLibrary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ggjos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -73,14 +73,14 @@
         }
       }
     },
-    "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogTestUI\\BlogTestUI.csproj": {
+    "C:\\Users\\ggjos\\Desktop\\New new Repo\\BlogTestUI\\BlogTestUI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogTestUI\\BlogTestUI.csproj",
+        "projectUniqueName": "C:\\Users\\ggjos\\Desktop\\New new Repo\\BlogTestUI\\BlogTestUI.csproj",
         "projectName": "BlogTestUI",
-        "projectPath": "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogTestUI\\BlogTestUI.csproj",
+        "projectPath": "C:\\Users\\ggjos\\Desktop\\New new Repo\\BlogTestUI\\BlogTestUI.csproj",
         "packagesPath": "C:\\Users\\ggjos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogTestUI\\obj\\",
+        "outputPath": "C:\\Users\\ggjos\\Desktop\\New new Repo\\BlogTestUI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ggjos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -97,8 +97,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogDataLibrary\\BlogDataLibrary.csproj": {
-                "projectPath": "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogDataLibrary\\BlogDataLibrary.csproj"
+              "C:\\Users\\ggjos\\Desktop\\New new Repo\\BlogDataLibrary\\BlogDataLibrary.csproj": {
+                "projectPath": "C:\\Users\\ggjos\\Desktop\\New new Repo\\BlogDataLibrary\\BlogDataLibrary.csproj"
               }
             }
           }

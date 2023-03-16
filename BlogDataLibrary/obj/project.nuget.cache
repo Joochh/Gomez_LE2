@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bbtIZxGduuHWT5fQD7QatqDVnkiydppShzFlKKHpVmTHEERp65X+YFMLby6c6WVEJ4iyP23Ngi/fVtXdd1f1eQ==",
+  "dgSpecHash": "DDXeFnOBKRJrnz01AXCGll70A3l+gVnHknHJl1FY7cYsSkdUNvrdl8gbiylIgSZW2MqCRAOIFN3sfgdAVmmMKg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\ggjos\\Documents\\Gomez-LE\\BlogDataLibrary\\BlogDataLibrary.csproj",
+  "projectFilePath": "C:\\Users\\ggjos\\Desktop\\New new Repo\\BlogDataLibrary\\BlogDataLibrary.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ggjos\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\ggjos\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
